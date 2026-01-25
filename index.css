@@ -1,0 +1,3 @@
+/* Placeholder stylesheet so the build/hosting doesn't 404 /index.css */
+:root { color-scheme: light; }
+.dark :root { color-scheme: dark; }
